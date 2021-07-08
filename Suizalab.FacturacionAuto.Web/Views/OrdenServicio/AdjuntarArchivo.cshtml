@@ -1,0 +1,147 @@
+﻿@using Suizalab.FacturacionAuto.Web.Controllers;
+
+<link href="~/Plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="~/Content/datatables.css">
+<link rel="stylesheet" type="text/css" href="~/Content/Campania/Configurar.css">
+
+
+<div class="d-md-flex align-items-center">
+    <div>
+        <h4 class="card-title Titulo">LISTADO DE TICKETS</h4>
+    </div>
+</div>
+
+
+<div class="row">
+    <!-- column -->
+    <div class="col-12 BoxSearch">
+        <form target="request" class="row" data-controler='@Url.Action("GetListaSited")'>
+            <div class="form-group pl-1 col-6 col-md-4" id="VerPdf" data-controler='@Url.Action("ObtenerSitedRuta")'>
+                <label class="ml-2 mr-2">Fecha Desde</label>
+                <div class="input-group">
+                    <input id="Calendar-FecAtc-ini" style="width: 150px;" class="form-control" data-date-format="dd/mm/yyyy" placeholder="Fecha Inicial">
+                </div>
+            </div>
+
+            <div class="form-group pl-1 col-6 col-md-4">
+                <label class="ml-2 mr-2">Fecha Hasta </label>
+                <div class="input-group">
+                    <input id="Calendar-FecAtc-fin" style="width: 150px;" class="form-control" data-date-format="dd/mm/yyyy" placeholder="Fecha Final">
+                </div>
+            </div>
+
+            <div class="form-group pl-2 btnFiltro">
+                <label class="mr-2 text-white">:</label>
+                <div class="input-group"></div>
+                <button type="submit" class="btn btn-primary">Filtrar</button>
+            </div>
+        </form>
+    </div>
+
+
+    <div id="loadTable" class="col-12"></div>
+    <div id='gwdListClientes' class="col-12 row hide">
+        <div class="boxResult table-responsive-md col-12 mt-6 table" id="divListaBiopsia"></div>
+    </div>
+
+ 
+    <div class="modal fade" id="modalAdjuntarArchivo" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content border-modal-custom-principal" id="listImagenes" data-controler='@Url.Action("SaveImage")'>
+
+                <div class="modal-header border-modal-custom-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Adjuntar Documento</h5>
+
+                    @*<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>*@
+                </div>
+                <div class="modal-body" style="padding:0px !important">
+                    <div class="col-xs-12 col-md-12 centerBlock div-row-general" style="padding-top:20px !important">
+                        <div class="col-md-12 mt1">
+                            <div>
+                                <label class="labelArea">Numero Ticket:</label> <input type="text" id="codeTicket" readonly />
+                            </div>
+                            <br />
+                            <div>
+                                <label class="labelArea">Seleccione PDF:</label>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="input-group input-group-sm">
+
+                                <span name="functionalDocument" id="filepdf" class="form-control file-info"></span>
+                                <span id="input-group-btn">
+                                    <button id="btnUploadModal" class="btnSearchFuncional btn btn-flat btn-info browse-btn">Seleccionar</button>
+                                    <input id="real-input" type="file" name="inputFileUploadFuncional" class="inputFile real-input" style="display:none;" accept=".pdf" />
+                                </span>
+
+                            </div>  
+                        </div>
+                        <br /> <br /> <br />
+                        <center>
+                            <div id="visorArchivo">
+
+                            </div>
+                        </center>
+
+                        @*<input type="hidden" id="codeTicket" />*@
+                        <input type="hidden" id="numosc" />
+                        <input type="hidden" id="perosc" />
+                        <input type="hidden" id="anoosc" />
+                        <input type="hidden" id="numsuc" />
+                        <input type="hidden" id="numemp">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="btnCerrarModal">Cerrar</button>
+                    <button type="button" class="btn btn-primary" id="EnviarGuardar">Guardar Archivo</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     
+    <div class="modal fade" id="modalMostrarPdf" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+
+                <div class="modal-header border-modal-custom-header">
+                    <h5 class="modal-title" id="ejemploModal">VISUALIZAR PDF CARGADO</h5>
+
+                    @*<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>*@
+                </div>
+
+                <div class="modal-body" style="padding:0px !important">
+                    <div class="col-xs-12 col-md-12 centerBlock div-row-general" style="padding-top:20px !important">
+
+                        <center>
+                            <iframe id="displayPDF" src="" type="application/pdf" width="450" height="700" style="overflow: auto;"></iframe>
+                        </center>
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="btnCerrarModalv2">Cerrar</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section scripts{
+
+    <!-- DataTables -->
+    <script type="text/javascript" src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="~/Scripts/datatables.js"></script>
+    <script src="~/Scripts/pdfobject.min.js"></script>
+    <script src="~/Scripts/pdfobject.js"></script>
+    <script src="@Url.Content("~/Scripts/OrdenServicio/AdjuntarDocumento.js")"></script>
+}

@@ -1,0 +1,25 @@
+﻿@using Suizalab.FacturacionAuto.Web.Controllers;
+
+<link href="~/Plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="~/Content/datatables.css">
+<link rel="stylesheet" type="text/css" href="~/Content/Campania/Configurar.css">
+
+<div class="d-md-flex align-items-center">
+    <div>
+        <h4 class="card-title Titulo">CONFIGURAR COMPAÑIAS DE CAMPAÑAS</h4>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card updateCompania" data-controler='@Url.Action("UpdateCompania")'>
+            <div class="table-responsive-md col-12 mt-3 table" id="divListaCompanias" data-controler='@Url.Action("ListaCompanias")'></div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="~/Scripts/datatables.js"></script>
+    <script type="text/javascript" charset="utf8" src="~/Scripts/Campania/Configurar.js"></script>
+}

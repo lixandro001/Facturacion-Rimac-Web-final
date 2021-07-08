@@ -1,0 +1,125 @@
+﻿@using Suizalab.FacturacionAuto.Web.Controllers;
+
+<link href="~/Plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="~/Content/datatables.css">
+<link rel="stylesheet" type="text/css" href="~/Content/Campania/Campania.css">
+
+<div class="d-md-flex align-items-center">
+    <div>
+        <h4 class="card-title Titulo">CAMPAÑAS SUIZA LAB</h4>
+    </div>
+</div>
+<div class="row">
+    <!-- column -->
+    <div class="col-12 BoxSearch">
+        <form id="form-BuscarAtenciones" target="request" class="row">
+            <div class="form-group pl-1 col-6 col-md-4">
+                <label class="mr-2">Fecha Desde</label>
+                <div class="input-group">
+                    <input id="Calendar-FecAtc-ini" style="width: 150px;" class="form-control" data-date-format="dd/mm/yyyy" placeholder="Fecha Inicial">
+                </div>
+            </div>
+            <div class="form-group pl-1 col-6 col-md-4">
+                <label class="mr-2">Fecha Hasta </label>
+                <div class="input-group">
+                    <input id="Calendar-FecAtc-fin" style="width: 150px;" class="form-control" data-date-format="dd/mm/yyyy" placeholder="Fecha Final">
+                </div>
+            </div>
+
+            <div class="form-group pl-1 col-12 col-md-4">
+                <label class="mr-2">Compañia</label>
+                <div class="input-group">
+                    <a id="btnSeleccionarCompania" href="javascript:void(0)" class="btn m-t-20 btn-secondary btn-block waves-effect waves-light">
+                        <i class="fas fa-search"></i> Seleccionar
+                    </a>
+                </div>
+            </div>
+            <div class="form-group col-12 row mt-2 mb-2">
+                <div class="form-group pl-1 col-12 col-md-6">
+                    <label class="mr-2">Datos de Compañia: </label>
+                    <div class="input-group" id="divDatosCompania">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="spnCompaniaId">0000</span>
+                        </div>
+                        <input type="text" class="form-control" placeholder="Nombre de Compañia" id="spnCompaniaName" disabled>
+                    </div>
+                </div>
+                <div class="form-group pl-2 btnFiltro">
+                    <label class="mr-2 text-white">:</label>
+                    <div class="input-group"></div>
+                    <button type="submit" class="btn btn-primary">Buscar</button>
+                </div>
+            </div>
+    </div>
+    </form>
+</div>
+<!-- column -->
+
+<div id="divRegateo" class="col-12 mt-4 Hide">
+    <h5 class="card-title Titulo">Agregar regateo</h5>
+    <form id="form-UpdateOrden" target="request" class="row" action='@Url.Action("RegistrarRegateo")'>
+        <div class="col-6 row align-items-center">
+            <div class="col-lg-4 col-md-12 text-right">
+                <span>Monto de Regateo</span>
+            </div>
+            <div class="col-lg-8 col-md-12">
+                <div class="input-group">
+                    <div class="input-group-append">
+                        <span class="input-group-text" id="Monto-Regateo">S/</span>
+                    </div>
+                    <input type="text" id="inpMonto" class="form-control" placeholder="00.00" aria-label="Monto Regateo" aria-describedby="Monto-Regateo">
+                </div>
+            </div>
+        </div>
+        <div class="form-group pl-2 btnFiltro col-6">
+            <button type="submit" class="btn btn-primary mt-3">Agregar Monto</button>
+        </div>
+    </form>
+</div>
+
+<div class="col-12">
+    <div class="card">
+        <div class="table-responsive-md col-12 mt-3 table" id="divListaOrdenes" data-controler='@Url.Action("ListaOrdenes")'></div>
+    </div>
+</div>
+
+<!-- Modal Companias -->
+<div class="modal fade none-border" id="divModalCompanias">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Seleccione la Compañia</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="table-responsive-md col-12 mt-3 table" id="divListaCompanias" data-controler='@Url.Action("ListaCompanias")'></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal Servicios -->
+<div class="modal fade none-border" id="divModalServicios">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Lista de Servicios</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="table-responsive-md col-12 mt-3 table" id="divListaServiciosDet" data-controler='@Url.Action("ListaOrdenesDet")'></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary waves-effect" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- END MODAL -->
+@section scripts{
+    <script src="~/Plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="~/Scripts/datatables.js"></script>
+    <script type="text/javascript" charset="utf8" src="~/Scripts/Campania/Campania.js"></script>
+}

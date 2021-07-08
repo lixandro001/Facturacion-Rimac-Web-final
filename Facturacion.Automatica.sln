@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suizalab.FacturacionAuto.BE", "Suizalab.FacturacionAuto.BE\Suizalab.FacturacionAuto.BE.csproj", "{24F4C38E-BB4A-4771-A59F-E465F34CB89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suizalab.FacturacionAuto.BL", "Suizalab.FacturacionAuto.BL\Suizalab.FacturacionAuto.BL.csproj", "{5A19EADA-DF49-40EE-9951-398B3FFBCD40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suizalab.FacturacionAuto.DA", "Suizalab.FacturacionAuto.DA\Suizalab.FacturacionAuto.DA.csproj", "{5EBF9D46-6D66-4C43-B1E7-D6C15E976D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suizalab.FacturacionAuto.Utilitarios", "Suizalab.FacturacionAuto.Utilitarios\Suizalab.FacturacionAuto.Utilitarios.csproj", "{964CC71E-8F20-4A22-A791-2E2796E93B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suizalab.FacturacionAuto.Web", "Suizalab.FacturacionAuto.Web\Suizalab.FacturacionAuto.Web.csproj", "{F9E98A83-8D10-44B6-8547-D376CB9668DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suizalab.FacturacionAuto.Seguridad", "Suizalab.FacturacionAuto.Seguridad\Suizalab.FacturacionAuto.Seguridad.csproj", "{B10CB2AD-FEAA-4730-92F4-C8C9D2EA1710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F4C38E-BB4A-4771-A59F-E465F34CB89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F4C38E-BB4A-4771-A59F-E465F34CB89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F4C38E-BB4A-4771-A59F-E465F34CB89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F4C38E-BB4A-4771-A59F-E465F34CB89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A19EADA-DF49-40EE-9951-398B3FFBCD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A19EADA-DF49-40EE-9951-398B3FFBCD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A19EADA-DF49-40EE-9951-398B3FFBCD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A19EADA-DF49-40EE-9951-398B3FFBCD40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBF9D46-6D66-4C43-B1E7-D6C15E976D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBF9D46-6D66-4C43-B1E7-D6C15E976D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBF9D46-6D66-4C43-B1E7-D6C15E976D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBF9D46-6D66-4C43-B1E7-D6C15E976D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964CC71E-8F20-4A22-A791-2E2796E93B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964CC71E-8F20-4A22-A791-2E2796E93B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964CC71E-8F20-4A22-A791-2E2796E93B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964CC71E-8F20-4A22-A791-2E2796E93B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E98A83-8D10-44B6-8547-D376CB9668DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E98A83-8D10-44B6-8547-D376CB9668DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E98A83-8D10-44B6-8547-D376CB9668DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E98A83-8D10-44B6-8547-D376CB9668DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10CB2AD-FEAA-4730-92F4-C8C9D2EA1710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10CB2AD-FEAA-4730-92F4-C8C9D2EA1710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10CB2AD-FEAA-4730-92F4-C8C9D2EA1710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10CB2AD-FEAA-4730-92F4-C8C9D2EA1710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725ED4E3-9F2A-409C-833B-BC7DFD0EE450}
+	EndGlobalSection
+EndGlobal

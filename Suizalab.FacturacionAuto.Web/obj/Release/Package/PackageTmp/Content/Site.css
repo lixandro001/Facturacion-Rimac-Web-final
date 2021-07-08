@@ -1,0 +1,17 @@
+﻿.nav-logoSuiza {
+    
+}
+#imgLogoSuiza{
+    max-width: 170px;
+    padding: 3px;
+}
+
+.table tbody tr:hover *{
+    cursor: pointer;
+    background-color: #2caab2b3 !important;
+    color: white;
+}
+.datepicker table tr td.active.active, .datepicker table tr td.active.highlighted.active, .datepicker table tr td.active.highlighted:active, .datepicker table tr td.active:active{
+    background-color: #d92527 !important;
+}
+

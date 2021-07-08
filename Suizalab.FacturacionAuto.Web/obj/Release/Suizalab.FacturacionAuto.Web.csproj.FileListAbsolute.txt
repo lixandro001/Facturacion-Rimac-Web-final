@@ -1,0 +1,295 @@
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.dll.config
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.XmlSerializers.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.exe
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.exe.config
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.rsp
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.exe
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.exe.config
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.rsp
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.AppContext.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Console.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.exe
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.exe.config
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.rsp
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Antlr3.Runtime.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Newtonsoft.Json.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BE.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BL.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Seguridad.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Utilitarios.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Helpers.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Mvc.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Optimization.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Razor.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\WebGrease.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Oracle.ManagedDataAccess.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BE.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BL.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Seguridad.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Utilitarios.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Helpers.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Mvc.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Optimization.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Razor.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Newtonsoft.Json.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Antlr3.Runtime.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.dll.config
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csprojAssemblyReference.cache
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csproj.CoreCompileInputs.cache
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csproj.CopyComplete
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.XmlSerializers.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.dll.config
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.exe
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.exe.config
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.rsp
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.exe
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.exe.config
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.rsp
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.AppContext.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Console.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Compression.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Pipes.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Claims.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.ValueTuple.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XPath.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.exe
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.exe.config
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.rsp
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\VBCSCompiler.exe
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Antlr3.Runtime.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Newtonsoft.Json.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BE.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BL.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Seguridad.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Utilitarios.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Helpers.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Mvc.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Optimization.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Razor.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Deployment.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Razor.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\WebGrease.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Oracle.ManagedDataAccess.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BE.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BL.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Seguridad.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Utilitarios.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Helpers.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Mvc.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Optimization.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Razor.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Deployment.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Razor.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Newtonsoft.Json.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Antlr3.Runtime.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.dll.config
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Helpers.resources.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Mvc.resources.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Optimization.resources.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Razor.resources.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.resources.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csprojAssemblyReference.cache
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csproj.CoreCompileInputs.cache
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csproj.CopyComplete
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.dll.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Web.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.exe
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.exe.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csc.rsp
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.exe
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.exe.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\csi.rsp
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsc.exe
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsc.exe.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsc.exe.conico
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsc.ico
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsi.exe
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsi.exe.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsi.exe.conico
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\gcsi.ico
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.AppContext.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Console.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.exe
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.exe.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\vbc.rsp
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Antlr3.Runtime.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Newtonsoft.Json.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BE.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BL.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Seguridad.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Utilitarios.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Helpers.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Mvc.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Optimization.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Razor.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\WebGrease.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Oracle.ManagedDataAccess.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BE.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.BL.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Seguridad.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.Utilitarios.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Helpers.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Mvc.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Optimization.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.Razor.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Newtonsoft.Json.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Antlr3.Runtime.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\Suizalab.FacturacionAuto.DA.dll.config
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csproj.AssemblyReference.cache
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csproj.CoreCompileInputs.cache
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.csproj.CopyComplete
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.Web\obj\Release\Suizalab.FacturacionAuto.Web.pdb

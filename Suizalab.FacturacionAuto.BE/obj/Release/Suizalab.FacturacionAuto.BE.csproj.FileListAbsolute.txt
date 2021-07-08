@@ -1,0 +1,27 @@
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.BE.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.BE.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.Utilitarios.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.Utilitarios.pdb
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csprojAssemblyReference.cache
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csproj.CoreCompileInputs.cache
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csproj.CopyComplete
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.dll
+C:\Users\mhuaman\source\repos\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.BE.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.BE.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.Utilitarios.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.Utilitarios.pdb
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csprojAssemblyReference.cache
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csproj.CoreCompileInputs.cache
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csproj.CopyComplete
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.dll
+D:\MAFER\X_GIT\Suiza_apps_FacturacionAutomatica\DESARROLLO\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.BE.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.BE.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.Utilitarios.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\bin\Release\Suizalab.FacturacionAuto.Utilitarios.pdb
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csproj.AssemblyReference.cache
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csproj.CoreCompileInputs.cache
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.csproj.CopyComplete
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.dll
+C:\Users\egomez\Desktop\FUENTES FACTURACION RIMAC WEB FINAL\Web\Facturacion.Automatica\Suizalab.FacturacionAuto.BE\obj\Release\Suizalab.FacturacionAuto.BE.pdb

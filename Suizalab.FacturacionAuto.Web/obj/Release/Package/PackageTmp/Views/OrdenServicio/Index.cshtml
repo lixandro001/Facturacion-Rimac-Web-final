@@ -1,0 +1,33 @@
+﻿@using Suizalab.FacturacionAuto.Web.Controllers
+
+<link rel="stylesheet" type="text/css" href="~/Content/OrdenServicio/OrdenServicio.Index.css">
+
+<div class="d-md-flex align-items-center">
+    <div>
+        <h4 class="card-title Titulo">ORDENES DE SERVICIO SIN FIRMA</h4>
+    </div>
+</div>
+
+<div class="form-group row mt-4  col-6 col-lg-4 ">
+    <label class="col-md-6 m-t-15">Ordenes por més:</label>
+    <div class="col-md-6">
+        <select id="cmbFecha" class="form-control custom-select" style="width: 100%; height:36px;">
+            <option value="0">Todo</option>
+        </select>
+    </div>
+</div>
+
+<div id="loadTable" class="col-12"></div>
+<div class="row">
+    <!-- Lista de ordenes de biopsia -->
+    <div class="col-12"><b>Total de Ordenes de Servicio sin firma: </b><span class="totalOrdenes"></span></div>
+    <div id='gwdListOrdenes' class="col-12 row hide" data-controller='@Url.Action("GetListaOrdenes")'>
+        <div class="boxResult table-responsive-md col-12 mt-3 table" id="divListaBiopsia">
+            No hay Ordenes sin Firma.
+        </div>
+    </div>
+</div>
+<!-- END MODAL -->
+@section scripts{ 
+    <script type="text/javascript" charset="utf8" src="~/Scripts/OrdenServicio/OrdenServicio.Index.js"></script>
+}

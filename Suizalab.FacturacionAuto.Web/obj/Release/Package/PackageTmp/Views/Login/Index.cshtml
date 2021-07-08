@@ -1,0 +1,137 @@
+﻿@using Suizalab.FacturacionAuto.Web.Controllers;
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="icon" type="image/png" href="~/Images/favicon.ico" />
+    <title>.:: Facturación Automática - Suiza Lab ::.  Login</title>
+    <link rel="stylesheet" href="~/plugins/animate-css/animate.min.css">
+    <link rel="stylesheet" href="~/plugins/sweetalert/sweetalert.css">
+    <script src="~/Plugins/moment.js/moment.min.js"></script>        
+    <link rel="stylesheet" href="~/Content/Login/login.css?v1.0.0">
+    @Scripts.Render("~/bundles/modernizr")
+
+    <script language="javascript" type="text/javascript">history.forward(1) // Evita retroceder</script>
+</head>
+<body>
+
+    <style type="text/css">
+        #footer {
+            bottom: 0;
+            width: 100%;
+            height: 105px;
+            z-index: -100;
+            position: absolute;
+            background: #ffffff; /* navegadores antiguos */
+            background: -moz-linear-gradient(top, #ffffff 0%, #e2e2e2 100%); /* i explorer +6 */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e2e2e2)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top, #ffffff 0%,#e2e2e2 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top, #ffffff 0%,#e2e2e2 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top, #ffffff 0%,#e2e2e2 100%); /* IE10+ */
+            background: linear-gradient(to bottom, #ffffff 0%,#e2e2e2 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e2e2e2',GradientType=0 ); /* IE6-9 */
+        }
+
+            #footer p {
+                text-align: center;
+                font-size: 0.85em;
+                color: #2c516e;
+                font-weight: 600;
+            }
+
+            #footer #logo {
+                margin: 0 auto;
+                width: 200px;
+                height: 75px;
+            }
+
+        .form-control {
+            -webkit-border-radius: 0px !important;
+            -moz-border-radius: 0px !important;
+            border-radius: 0px !important;
+            box-shadow: none;
+            line-height: 28px;
+        }
+
+            .form-control:focus {
+                border-color: #3c8dbc !important;
+                box-shadow: none;
+            }
+    </style>
+    <div class="container">
+        <div id="header">
+            <div id="cont-head" class="container">
+                <div class="logo">
+                    <img src="~/Images/login/logo.png" alt="Logo Suiza Lab">
+                </div>
+                <div class="rs">
+                    <a href="https://www.facebook.com/suizalab" target="_blank"><img src="~/Images/login/facebook.png" alt="Facebook"></a>
+                    <a href="https://twitter.com/SuizaLab" target="_blank"><img src="~/Images/login/twitter.png" alt="Twitter"></a>
+                    <a href="https://www.youtube.com/user/suizalabmarketing?feature=c4-feed-u" target="_blank"><img src="~/Images/login/youtube.png" alt="Youtube"></a>
+                    <a href="http://www.linkedin.com/pub/suiza-lab/71/619/897" target="_blank"><img src="~/Images/Login/linkedin.png" alt="linkedin"></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Cont -->
+        <div id="cont">
+            <div id="cont-home">
+
+                <!-- /Slider -->
+                <div id="bloq-der">
+                    <h1 class="mt-4">Facturación Automática</h1>
+                    <div id="login" class="mt-2 pt-3">
+                        <form action='@Url.Action("IniciarSesion")' >
+                            <p class="mt-4">
+                                <img id="imgUser" src="~/Images/login/ico-usuario.png">
+                                <b>Usuario</b>
+                            </p>
+                            <p>
+                                <input name="NombreUsuario" type="text" id="txtUsuario" class="form-control" style="text-transform: uppercase;" placeholder="USUARIO" required>
+                            </p>
+                            <p class="mt-4">
+                                <img id="imgPassword" src="~/Images/login/ico-password.png">
+                                <b>Contraseña</b>
+                            </p>
+                            <p>
+                                <input name="Contrasenia" type="password" id="txtPassword" class="form-control" placeholder="CONTRASEÑA" required>
+                            </p>
+                            <p class="text-center">
+                                <button type="submit" class="btnTransparent mt-4"><span class="spinner-border spinner-border-sm invisible" role="status" aria-hidden="true"></span>  Acceder al Sistema</button>
+                            </p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="logo">
+            <img src="~/Images/mas-que-un-laboratorio-clinico.png" alt="Suiza Lab">
+        </div>
+        <p>
+            Suiza Lab &copy;
+            <span id="lblCopyright">@DateTime.Now.Year</span>.
+            Todos los derechos reservados - Call Center 612-666 Anexo 1432
+        </p>
+    </div>
+
+    <script src="~/plugins/jquery/jquery.min.js"></script>
+    <script src="~/plugins/sweetalert/sweetalert.min.js"></script>
+    <script src="~/Scripts/dialogs.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="~/plugins/popper.js/umd/popper.min.js"></script>
+    <script src="~/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/plugins/perfect-scrollbar/perfect-scrollbar.jquery.min.js"></script>    
+    <script src="~/Scripts/Login/login.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+﻿#form-BuscarAtenciones,#form-UpdateOrden{
+    padding: 5px;
+    border: 1px solid #e5eef3;
+}
+
+#form-UpdateOrden{    
+    padding-top: 8px;
+}
